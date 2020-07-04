@@ -1,0 +1,14 @@
+{
+    "name": "rbk/dps",
+    "description": "RBK DPS Library",
+    "type": "library",
+    "authors": [
+        {
+            "name": "RBK",
+            "email": "rbk.wizard@gmail.com"
+        }
+    ],
+    "require": {
+        "cakephp/i18n": "^4.0"
+    }
+}
