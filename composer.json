@@ -16,7 +16,7 @@
             "RBK\\DPS\\": "src/"
         },
         "files": [
-            "src/functions.php"
+            "src/funcsdocs.php"
         ]
     },
     "prefer-stable": true,
